@@ -11,7 +11,8 @@ in js console, type
 
 sendChat('foo')
 
-expected: message 'foo' shows up on other browser
-observed: no message on other browser
+* expected: message 'foo' shows up on other browser
 
-https://github.com/arunoda/meteor-streams/issues/5
+* observed: no message on other browser
+
+reference: https://github.com/arunoda/meteor-streams/issues/5
